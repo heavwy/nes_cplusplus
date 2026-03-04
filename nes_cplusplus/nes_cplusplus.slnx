@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="nes_cplusplus.vcxproj" Id="59eb0862-2783-474c-b477-315a87846588" />
+</Solution>
