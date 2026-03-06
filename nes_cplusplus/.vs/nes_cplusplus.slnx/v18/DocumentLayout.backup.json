@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\explore\\nes\\nes_cplusplus\\nes_cplusplus\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59EB0862-2783-474C-B477-315A87846588}|nes_cplusplus.vcxproj|E:\\explore\\nes\\nes_cplusplus\\nes_cplusplus\\olc6502.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{59EB0862-2783-474C-B477-315A87846588}|nes_cplusplus.vcxproj|solutionrelative:olc6502.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{59EB0862-2783-474C-B477-315A87846588}|nes_cplusplus.vcxproj|E:\\explore\\nes\\nes_cplusplus\\nes_cplusplus\\olc6502.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{59EB0862-2783-474C-B477-315A87846588}|nes_cplusplus.vcxproj|solutionrelative:olc6502.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EB0862-2783-474C-B477-315A87846588}|nes_cplusplus.vcxproj|E:\\explore\\nes\\nes_cplusplus\\nes_cplusplus\\olc6502.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59EB0862-2783-474C-B477-315A87846588}|nes_cplusplus.vcxproj|solutionrelative:olc6502.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59EB0862-2783-474C-B477-315A87846588}|nes_cplusplus.vcxproj|E:\\explore\\nes\\nes_cplusplus\\nes_cplusplus\\Bus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -30,30 +30,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "olc6502.cpp",
               "DocumentMoniker": "E:\\explore\\nes\\nes_cplusplus\\nes_cplusplus\\olc6502.cpp",
               "RelativeDocumentMoniker": "olc6502.cpp",
               "ToolTip": "E:\\explore\\nes\\nes_cplusplus\\nes_cplusplus\\olc6502.cpp",
               "RelativeToolTip": "olc6502.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEEAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-26T04:39:30.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "olc6502.h",
               "DocumentMoniker": "E:\\explore\\nes\\nes_cplusplus\\nes_cplusplus\\olc6502.h",
               "RelativeDocumentMoniker": "olc6502.h",
               "ToolTip": "E:\\explore\\nes\\nes_cplusplus\\nes_cplusplus\\olc6502.h",
               "RelativeToolTip": "olc6502.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-02-26T03:26:51.081Z",
               "EditorCaption": ""
@@ -68,8 +68,7 @@
               "RelativeToolTip": "Bus.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-26T03:15:07.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-26T03:15:07.551Z"
             },
             {
               "$type": "Document",
@@ -81,8 +80,7 @@
               "RelativeToolTip": "Bus.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-26T03:14:24.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-26T03:14:24.461Z"
             },
             {
               "$type": "Document",
@@ -94,8 +92,7 @@
               "RelativeToolTip": "main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-26T03:10:42.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-26T03:10:42.578Z"
             }
           ]
         }
